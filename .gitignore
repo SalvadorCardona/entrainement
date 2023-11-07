@@ -1,0 +1,3 @@
+/.env
+/OLDHELM/api-platform/charts/*
+!/OLDHELM/api-platform/charts/.gitignore
